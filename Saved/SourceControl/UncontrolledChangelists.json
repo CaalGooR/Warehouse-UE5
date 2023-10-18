@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/MyOwnMap.umap",
+				"C:/Users/gonza/OneDrive/Documentos/Unreal Projects/NewProjectCourse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
+			]
+		}
+	]
+}
